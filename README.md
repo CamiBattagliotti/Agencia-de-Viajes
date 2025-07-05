@@ -130,14 +130,4 @@ La sección de estadísticas ofrece análisis como:
 
 ---
 
-## 📌 Créditos
 
-Este proyecto fue realizado como entrega final para  **Programación 1**.
- 
-Institución: Universidad Nacional de Entre Rios 
-Tecnicatura Universitaria en Desarrollo Web 
-Año: 2025
-
----
-
-¡Gracias por visitar! 🌍✈️
