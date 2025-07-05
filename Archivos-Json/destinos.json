@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "nombre": "Bariloche",
+    "precio": 85000,
+    "disponibilidad": 7
+  },
+  {
+    "id": 2,
+    "nombre": "Iguazu",
+    "precio": 72000,
+    "disponibilidad": 18
+  },
+  {
+    "id": 3,
+    "nombre": "Salta",
+    "precio": 69000,
+    "disponibilidad": 11
+  },
+  {
+    "id": 4,
+    "nombre": "Mendoza",
+    "precio": 77000,
+    "disponibilidad": 15
+  },
+  {
+    "id": 5,
+    "nombre": "El Calafate",
+    "precio": 95000,
+    "disponibilidad": 16
+  },
+  {
+    "id": 6,
+    "nombre": "Buenos Aires",
+    "precio": 60000.0,
+    "disponibilidad": 10
+  }
+]

@@ -1,0 +1,27 @@
+[INICIO]
+  │
+  ▼
+[Mostrar Menú]
+  │
+  ├── 1. Crear Cliente ────[Solicitar datos]───[Validar datos]───[Guardar en DB]───[¿Éxito?]───Sí───[Mostrar éxito]──┐
+  │                                                                                           No                    │
+  │                                                                                           └───[Mostrar error]───┘
+  ├── 2. Leer Clientes ────[Obtener lista DB]───[Mostrar lista]──────────────────────────────────────────────────────┐
+  │                                                                                                                  │
+  ├── 3. Actualizar Cliente ────[Pedir ID]───[Buscar en DB]───[¿Encontrado?]───No───[Mostrar error]───┐             │
+  │                                      │                   Sí                                        │             │
+  │                                      ▼                                                             │             │
+  │                              [Mostrar datos actuales]───[Solicitar nuevos datos]───[Validar]───[Actualizar DB]───┤
+  │                                                                                                                  │
+  ├── 4. Eliminar Cliente ────[Pedir ID]───[Buscar en DB]───[¿Encontrado?]───No───[Mostrar error]───┐               │
+  │                                  │                   Sí                                        │               │
+  │                                  ▼                                                             │               │
+  │                          [Mostrar datos]───[Confirmar eliminación]───Sí───[Borrar de DB]───────┤               │
+  │                                                    No                                           │               │
+  │                                                    └───[Cancelar operación]──────────────────────┘               │
+  │                                                                                                                  │
+  └── 5. Salir ────[¿Confirmar salida?]───Sí───[FIN]                                                               │
+                                      No                                                                           │
+                                      └───┘                                                                        │
+                                                                                                                   │
+└──────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘

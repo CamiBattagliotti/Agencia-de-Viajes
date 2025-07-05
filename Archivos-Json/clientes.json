@@ -1,0 +1,80 @@
+[
+    {
+        "id": 1,
+        "apellido": "Borelli",
+        "nombre": "Ramiro",
+        "dni": "35482956",
+        "telefono": "341645321",
+        "email": "ramiro@gmail.com",
+        "direccion": "Mendoza 1324",
+        "ciudad": "Rosario",
+        "codigo_postal": "2000",
+        "provincia": "Santa Fe",
+        "pais": "Argentina"
+    },
+    {
+        "id": 2,
+        "apellido": "Batta",
+        "nombre": "Cami",
+        "dni": "36754834",
+        "telefono": "3417704567",
+        "email": "cami@gmail.com",
+        "direccion": "Lalala 123",
+        "ciudad": "Santa Fe",
+        "codigo_postal": "2100",
+        "provincia": "Santa Fe",
+        "pais": "Argentina"
+    },
+    {
+        "id": 3,
+        "apellido": "Fernandez",
+        "nombre": "Sebastian",
+        "dni": "42567218",
+        "telefono": "3418002233",
+        "email": "luciaf@gmail.com",
+        "direccion": "San Juan 1450",
+        "ciudad": "Cordoba",
+        "codigo_postal": "4000",
+        "provincia": "Cordoba",
+        "pais": "Argentina"
+    },
+    {
+        "id": 4,
+        "apellido": "Gomez",
+        "nombre": "Tomas",
+        "dni": "31890215",
+        "telefono": "3416009988",
+        "email": "tomasgomez@hotmail.com",
+        "direccion": "Mitre 225",
+        "ciudad": "Parana",
+        "codigo_postal": "3100",
+        "provincia": "Entre Rios",
+        "pais": "Argentina"
+    },
+    {
+        "id": 5,
+        "apellido": "Swift",
+        "nombre": "Taylor",
+        "dni": "38345209",
+        "telefono": "114573957",
+        "email": "taylor@gmail.com",
+        "direccion": "Urquiza 890",
+        "ciudad": "CABA",
+        "codigo_postal": "3000",
+        "provincia": "Buenos Aires",
+        "pais": "Argentina"
+    },
+    {
+        "id": 6,
+        "apellido": "Francisconi",
+        "nombre": "Martin",
+        "dni": "31967486",
+        "telefono": "3274837584",
+        "email": "ma@gmail.com",
+        "direccion": "jfdkss",
+        "ciudad": "concordia",
+        "codigo_postal": "3465",
+        "provincia": "entre rios",
+        "pais": "argentina"
+    }
+]

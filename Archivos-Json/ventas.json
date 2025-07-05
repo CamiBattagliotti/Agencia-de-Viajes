@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "id_cliente": 5,
+    "nombre_cliente": "Sofia Martinez",
+    "id_destino": 2,
+    "nombre_destino": "Iguazu",
+    "cantidad": 5,
+    "total": 72000,
+    "fecha": "20/02/2021"
+  },
+  {
+    "id": 2,
+    "id_cliente": 1,
+    "nombre_cliente": "Ramiro Borelli",
+    "id_destino": 4,
+    "nombre_destino": "Mendoza",
+    "cantidad": 3,
+    "total": 45000.0,
+    "fecha": "21/05/2022"
+  },
+  {
+    "id": 3,
+    "id_cliente": 1,
+    "nombre_cliente": "Ramiro Borelli",
+    "id_destino": 3,
+    "nombre_destino": "Salta",
+    "cantidad": 5,
+    "total": 69000,
+    "fecha": "25/06/2025"
+  },
+  {
+    "id": 4,
+    "id_cliente": 2,
+    "nombre_cliente": "Cami Batta",
+    "id_destino": 1,
+    "nombre_destino": "Bariloche",
+    "cantidad": 2,
+    "total": 69000,
+    "fecha": "03/06/2019"
+  },
+  {
+    "id": 5,
+    "id_cliente": 3,
+    "nombre_cliente": "Sebastian Fernandez",
+    "id_destino": 5,
+    "nombre_destino": "El Calafate",
+    "cantidad": 5,
+    "total": 375000.0,
+    "fecha": "23/06/2017"
+  },
+  {
+    "id": 6,
+    "id_cliente": 5,
+    "nombre_cliente": "Taylor Swift",
+    "id_destino": 5,
+    "nombre_destino": "El Calafate",
+    "cantidad": 3,
+    "total": 285000,
+    "fecha": "27/06/2025"
+  },
+  {
+    "id": 7,
+    "id_cliente": 5,
+    "nombre_cliente": "Taylor Swift",
+    "id_destino": 1,
+    "nombre_destino": "Bariloche",
+    "cantidad": 2,
+    "total": 170000,
+    "fecha": "29/06/2025"
+  }
+]
