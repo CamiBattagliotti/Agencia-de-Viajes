@@ -86,6 +86,11 @@ El módulo de ventas permite:
 - Modificar el precio de una venta registrada  
 - Eliminar ventas  
 - Exportar todas las ventas a un archivo CSV para abrirlo con Excel (ventas.csv)
+- Consultar y mostrar el **clima actual** del destino seleccionado al registrar una venta usando la API de [wttr.in](https://wttr.in)
+
+### 🌤️ Consulta de clima en el destino
+
+Al registrar una nueva venta, el sistema hace una consulta en tiempo real a la API de wttr.in y muestra el clima actual del destino turístico seleccionado, brindando información relevante al usuario antes de finalizar la venta.
 
 ---
 
@@ -113,6 +118,10 @@ La sección de estadísticas ofrece análisis como:
     ```
     pip install tabulate
     ```
+  - `requests`  
+    Instalar con:
+    ```
+    pip install requests
 
 ---
 
@@ -127,6 +136,7 @@ La sección de estadísticas ofrece análisis como:
 - Validación de entradas de usuario
 - Generación de reportes y estadísticas
 - Exportación de datos a archivos CSV
+- Consumo de APIs externas en Python usando `requests`
 
 ---
 
