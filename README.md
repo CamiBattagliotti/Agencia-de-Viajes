@@ -148,6 +148,8 @@ Institución: Universidad Nacional de Entre Rios
 
 Tecnicatura Universitaria en Desarrollo Web 
 
+Integrantes: Carlos Gabrovich. Sebastian Guido. Paola Peñalva Rebaque. Bruno Bonelli. Camila Battagliotti.
+
 Año: 2025
 
 ---
